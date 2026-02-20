@@ -65,8 +65,7 @@ python sql.py
 streamlit run app.py
 ```
 
-## Team ID:**LTVIP2026TMIDS65923**
-
+## Team ID:** LTVIP2026TMIDS65923 **
 ## 👥 Team Members
 
 1. **CHODA DURGA BHAVANI**
